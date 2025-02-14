@@ -78,11 +78,11 @@ Q76::T
 Q77::T
 Q78::T
 Q79::T
-Q80::
+Q80::4.595
 Q81::4.575
 Q82::9.333
 Q83::N
 Q84::N
 Q85::N
-Q86::
-Q87::
+Q86:: The 6-panel truss would take less material to build than the two eight-panel trusses. All beams in all trusses can easily support the weight allotted so they are all essentially equal in that aspect. The Scissor trust may be slightly more aesthetically pleasing but not significantly. If you want higher ceilings though, you might think about the scissor truss. All of the trusses will easily withstand the forces so structurally, it really does not matter which Truss is chosen.
+Q87:: I would use the 6-panel truss. The 6-panel truss needs to support less weight because it supports less purlins. It also takes less material to build the 6 panel truss. At the end of the day, none of the beams are close to breaking so I feel as if the strength is not much of a factor. Go with the cheapest one.
